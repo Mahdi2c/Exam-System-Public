@@ -1,6 +1,5 @@
 # Exam-System-Public
 
-Code available upon request
 
 This exam system was designed and created with a group, with each member completing a certain class, my job was to work on one of the 3 main classes - the trainee. 
 This system was awarded and picked as one of the top 5 best projects by the uni.
